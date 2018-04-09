@@ -1,4 +1,4 @@
-Aria2, with integrated YAAW nd Aria2-NG Frontends
+Aria2, with integrated YAAW
 ---
 
 This is my fork of `abcminiuser/aria2-with-webui`'s docker container. I simply replaced the fronted end with YAAW, which provides more utilities than aria2-webui in my opinion.
